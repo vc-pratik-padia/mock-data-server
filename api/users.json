@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "pratik@yopmail.com",
+      "username": "pratikp",
+      "name": "Pratik P",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "email": "johnsnow@yopmail.com",
+      "username": "johnsnow",
+      "name": "John Snow",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "email": "johndoe@yopmail.com",
+      "username": "johndoe",
+      "name": "John Doe",
+      "role": "user"
+    },
+    {
+      "name": "Ram Verma",
+      "email": "ramverma@yopmail.com",
+      "username": "ramverma",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "name": "Lorem Ipsum",
+      "email": "loremipsum@yopmail.com",
+      "username": "loremipaum",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "name": "Georgia Guzman",
+      "email": "pami@mailinator.com",
+      "username": "veryzisav",
+      "role": "admin",
+      "id": 6
+    },
+    {
+      "name": "Lionel Contreras",
+      "email": "cejihyhok@mailinator.com",
+      "username": "me-cymilekak87",
+      "role": "admin",
+      "id": 7
+    },
+    {
+      "name": "Wing Guerrero",
+      "email": "tonabus@mailinator.com",
+      "username": "xifisuff",
+      "role": "admin",
+      "id": 8
+    }
+  ]
+}
